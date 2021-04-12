@@ -12,8 +12,8 @@ async def start_(client: Client, message: Message):
     await message.reply_sticker("CAACAgEAAxkDAAKTb2BzomJCM_QE8DX9-68ektXIP-O6AALEAQACvO6fHgl2QmaG-rxWHgQ")
     await message.reply_text(
         f"""<b>Hi {message.from_user.first_name}!
-\nI'm Rythm Music Bot i can help you play music in your group's voice chat.
-\nTo add in your group contact us at @godzilla_bot_support.
+\nI'm Rythm 🎵 Bot i can help you play music in your group's voice chat.
+\nTo 🎵🎶🎵.
 \nUse the buttons below to know more about me.
  </b>""",
       
